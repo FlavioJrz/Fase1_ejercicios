@@ -98,7 +98,7 @@ text-align: center;}
 .publish {
     /* container styles if any */
     margin-left: 50px;
-    text-align: top;
+    margin-top: 20px;
   }
   
   .publish h3 {
@@ -106,7 +106,6 @@ text-align: center;}
     font-size: 40px;
     line-height: 48px;
     color: #025457;
-   border: 2px solid powerblue;
   }
   
   .publish > p {
