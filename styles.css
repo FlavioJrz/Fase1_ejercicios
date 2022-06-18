@@ -97,8 +97,7 @@ text-align: center;}
 
 .publish {
     /* container styles if any */
-margin-left: 50px;
-    margin-bottom:90px;
+    margin-left: 50px;
   }
   
   .publish h3 {
@@ -106,6 +105,7 @@ margin-left: 50px;
     font-size: 40px;
     line-height: 48px;
     color: #025457;
+    margin-top: 70px;
   }
   
   .publish > p {
@@ -143,4 +143,5 @@ iframe{
   
   .explanatory-video img {
     width: 120px;
+
 }
